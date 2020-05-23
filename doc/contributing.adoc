@@ -83,7 +83,7 @@ If you add a module that is platform specific then make sure to include a _condi
 
 Similarly, if you are adding a news entry then it should be shown only to users that may find it relevant, see <<sec-news>> for a description of conditional news.
 
-=== Fork and create a pull request
+=== Getting started
 
 If you have not previously forked Home Manager then you need to do that first. Have a look at GitHub's {fork-a-repo}[Fork a repo] for instructions on how to do this.
 
